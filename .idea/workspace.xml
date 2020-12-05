@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dfe4acf5-cc40-4563-ba75-cf8c2b1c77a0" name="Default Changelist" comment="" />
+    <list default="true" id="dfe4acf5-cc40-4563-ba75-cf8c2b1c77a0" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,12 +46,13 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\BABS\WebstormProjects\TypingSpeed\static" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\BABS\WebstormProjects\TypingSpeed\static\images" />
       <recent name="C:\Users\BABS\WebstormProjects\TypingSpeed\static\videos" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\DEV\WebstormProjects\TypingSpeed" />
+      <recent name="C:\Users\BABS\WebstormProjects\TypingSpeed\static" />
     </key>
   </component>
   <component name="RunManager">
@@ -73,7 +77,7 @@
       <workItem from="1605347114258" duration="17051000" />
       <workItem from="1606785270388" duration="119000" />
       <workItem from="1606785503805" duration="3000" />
-      <workItem from="1607112140382" duration="17107000" />
+      <workItem from="1607112140382" duration="17304000" />
     </task>
     <servers />
   </component>
